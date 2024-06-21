@@ -32,6 +32,21 @@
 
 <a href="https://www.linkedin.com/in/jose-h-assis/-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+## About me ⚒️🙋‍♂️ 
+
+<p>
+🔹Profissional com perfil multidisciplinar, busco ingressar na área de desenvolvimento de sistemas, trazendo minha sólida base teórica e habilidades técnicas adquiridas ao longo da minha carreira. Minha jornada inclui conhecimento introdutório em JavaScript, uma linguagem de programação fundamental no desenvolvimento web, bem como habilidades avançadas em planilhas Excel, permitindo a manipulação eficiente de dados e automação.
+
+🔹Além disso, compreendo os princípios da Programação Orientada a Objetos (POO), que se mostraram essenciais para o desenvolvimento de sistemas escaláveis e eficientes. Minha base sólida acadêmica em lógica de programação fornece a capacidade necessária para resolver problemas e escrever código de qualidade.
+
+🔹Embora minha experiência profissional tenha abrangido diversas áreas, minha paixão pela tecnologia e meu desejo de contribuir para a área de desenvolvimento de sistemas me motivam a buscar oportunidades de aprendizado e crescimento. 
+
+🔹Perfil com facilidade em adaptar-se a diversos tipos de ambientes, análise crítica, senso de urgência, senso de dono, hands-on, visão holística e de fácil convivência no trabalho em equipe.
+</p>
+
+
+
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
