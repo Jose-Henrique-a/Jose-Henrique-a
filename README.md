@@ -2,16 +2,30 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+José+Henrique;I+am+from+São+Paulo,+Brazil;I+study+analysis+and+systems+development+at;USCS+Universidade+Municipal+São+Caetano+do+Sul;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Henrique-a&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+## Wakatime statistics 📊
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Henrique-a&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div>
+  
+[![Seu Nome Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrique_assis&layout=compact)](https://wakatime.com/@henrique_assis)
 
 [![wakatime](https://wakatime.com/badge/user/018dd756-9a2f-4cc2-95f7-e6450bb76913.svg)](https://wakatime.com/@018dd756-9a2f-4cc2-95f7-e6450bb76913)
 
+## Used in Git 📊
 
 
+
+  <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Henrique-a&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+      
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Henrique-a&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Where to find me ⤵️
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
