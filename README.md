@@ -4,7 +4,6 @@
 
 ## Wakatime statistics 📊
 
-
 <div>
   
 [![Seu Nome Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrique_assis&layout=compact)](https://wakatime.com/@henrique_assis)
