@@ -45,7 +45,6 @@
 🔹Perfil com facilidade em adaptar-se a diversos tipos de ambientes, análise crítica, senso de urgência, senso de dono, hands-on, visão holística e de fácil convivência no trabalho em equipe.
 </p>
 
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jose-Henrique-a}/count.svg" /></p> 
