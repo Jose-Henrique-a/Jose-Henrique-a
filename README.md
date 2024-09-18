@@ -6,7 +6,7 @@
 
 <div>
   
-[![Seu Nome Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrique_assis&layout=compact)](https://wakatime.com/@henrique_assis)
+[![Seu Nome Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jose_henrique_a&layout=compact)](https://wakatime.com/@jose_henrique_a)
 
 <p> Click to enter 💻⤵️ </p>
 
