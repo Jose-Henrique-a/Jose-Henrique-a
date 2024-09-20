@@ -8,9 +8,9 @@
   
 [![Seu Nome Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jose_henrique_a&layout=compact)](https://wakatime.com/@jose_henrique_a)
 
-<p> Click to enter 💻⤵️ </p>
-
 [![wakatime](https://wakatime.com/badge/user/018dd756-9a2f-4cc2-95f7-e6450bb76913.svg)](https://wakatime.com/@018dd756-9a2f-4cc2-95f7-e6450bb76913)
+
+<p> Click to enter 💻⬆️ </p>
 
 </div>
 
