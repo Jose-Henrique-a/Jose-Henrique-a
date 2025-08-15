@@ -44,6 +44,8 @@
 
 # Conheça também:
 * Sistema de Gerenciamento de Pedidos Ativos simultâneo 🌿 em: https://github.com/Jose-Henrique-a/lanchonete-naturais-app
+
+* Loja de móveis criado com Google Apps Script em: https://script.google.com/macros/s/AKfycbwOIgGjbF-61ERIJT-Q0KPypRDunKPwtVidUW81E4EMnTVjQEYRu5OCGPmRHNBOzmAc/exec 
   
 * Um pesquisador de endereços por CEP em: https://jose-henrique-a.github.io/FormularioComAutoPreenchimentoPeloCEP/
 
