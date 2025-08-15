@@ -69,6 +69,8 @@
 
 * Como este app está fora da Play Store, você precisa conceder permissões em seu celular para baixar aplicativos de fontes externas.
 
+* Atenção, se por acaso não estiver funcionando, é por falta de ativar os servidores e hosteadores de sites, softwares ou banco de dados. 
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jose-Henrique-a}/count.svg" /></p> 
