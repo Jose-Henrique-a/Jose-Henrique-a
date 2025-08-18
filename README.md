@@ -51,7 +51,7 @@
 
 * Um personal trainer digital online em: https://josehenrique.pythonanywhere.com/
 
-* Uma calculadora de preço médio dos seus dólares investidos: https://jose-henrique-a.github.io/Preco-medio-dolar/
+* Uma calculadora de preço médio dos seus dólares investidos: https://zerique.qzz.io/
 
 * Uma aplicação para consumir uma API, gerenciador de contatos : https://jose-henrique-a.github.io/Gerendiador-de-Contatos/
 
